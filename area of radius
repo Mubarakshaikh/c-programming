@@ -1,0 +1,13 @@
+#include <stdio.h>
+void main() {
+float r;
+const float PI=3.14;
+float A;
+printf("enter radius\n");
+scanf("%f",&r);
+A=PI*r*r;
+printf("area is %f",A);
+    
+    
+    
+}
